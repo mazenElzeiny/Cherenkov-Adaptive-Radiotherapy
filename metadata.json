@@ -1,0 +1,17 @@
+{
+    "voxel_cm": {
+        "x": 0.1,
+        "y": 0.1,
+        "z": 0.1
+    },
+    "histories": 1000000,
+    "correlation": 0.95,
+    "cherenkov_source": {
+        "total": 1.5e6
+    },
+    "simulation_info": {
+        "description": "Sample TOPAS simulation for Cherenkov oximetry",
+        "beam_energy": "6 MeV",
+        "geometry": "tissue phantom"
+    }
+}

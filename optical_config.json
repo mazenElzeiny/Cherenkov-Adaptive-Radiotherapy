@@ -1,0 +1,11 @@
+{
+    "wavelengths": [630, 700, 850],
+    "epsilon_hbo2": [319.6, 1214.0, 691.0],
+    "epsilon_hb": [3226.6, 1547.0, 1036.0],
+    "thc": 100.0,
+    "mu_s_prime": [10.0, 8.5, 7.0],
+    "anisotropy": 0.9,
+    "n_tissue": 1.4,
+    "n_air": 1.0,
+    "sto2_range": [0.6, 1.0]
+}
