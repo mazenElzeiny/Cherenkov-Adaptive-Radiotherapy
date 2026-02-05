@@ -1,0 +1,24 @@
+{
+  "data_source": "TOPAS Monte Carlo - Clinical Tumor Simulation",
+  "data_type": "Real TOPAS (rescaled to clinical dose)",
+  "timestamp": "2026-02-05T19:56:01.925630",
+  "grid_patient": [
+    60,
+    60,
+    60
+  ],
+  "tumor_voxels": 748,
+  "rescale_factor": 171690.28552065798,
+  "prescription_dose": 2.0,
+  "num_fractions": 10,
+  "initial_sto2_mean": 0.6347538386496072,
+  "final_sto2_mean": 0.636341279211335,
+  "sto2_improvement": 0.1587440561727771,
+  "initial_hypoxic_fraction": 0.32085561497326204,
+  "final_hypoxic_fraction": 0.31016042780748665,
+  "hypoxic_reduction_percent": 3.333333333333329,
+  "initial_hypoxic_volume": 240,
+  "final_hypoxic_volume": 232,
+  "mean_dose_boost": 0.09630313084831241,
+  "max_dose_boost": 0.09801115969260427
+}
